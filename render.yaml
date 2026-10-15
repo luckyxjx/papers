@@ -2,6 +2,7 @@ services:
   - type: web
     name: ajaia-docs
     runtime: node
+    plan: free
     buildCommand: npm run build
     startCommand: npm start
     envVars:
