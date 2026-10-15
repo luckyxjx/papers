@@ -177,6 +177,7 @@ aajia-docs/
 │   └── package.json
 │
 ├── ARCHITECTURE.md             # Detailed architectural specification & design tradeoffs
+├── AI_WORKFLOW.md               # AI tooling transparency & engineering decisions note
 ├── SUBMISSION.md               # Assessment checklist, feature matrix, and credentials
 ├── TESTING_GUIDE.md            # Step-by-step multi-user testing scenarios
 ├── render.yaml                 # Render Blueprint configuration
@@ -189,5 +190,6 @@ aajia-docs/
 ## Documentation
 
 - [System Architecture & Design Decisions](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/ARCHITECTURE.md)
+- [AI Workflow & Decision Log](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/AI_WORKFLOW.md)
 - [Testing & Collaboration Scenarios](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/TESTING_GUIDE.md)
 - [Project Submission Overview](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/SUBMISSION.md)

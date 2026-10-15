@@ -13,6 +13,7 @@ A lightweight, real-time collaborative document editor inspired by Google Docs, 
 | Source code (backend) | [`server/`](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/server) |
 | Source code (frontend) | [`client/`](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/client) |
 | Architecture documentation | [`ARCHITECTURE.md`](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/ARCHITECTURE.md) |
+| AI workflow note | [`AI_WORKFLOW.md`](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/AI_WORKFLOW.md) |
 | Testing guide & scenarios | [`TESTING_GUIDE.md`](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/TESTING_GUIDE.md) |
 | Deployment blueprint | [`render.yaml`](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/render.yaml) |
 | Readme & local setup | [`README.md`](file:///Users/lucky./VISUAL_PROJECTS/aajia%20testfte/README.md) |
