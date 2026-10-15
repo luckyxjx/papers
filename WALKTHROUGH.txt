@@ -4,6 +4,9 @@ Candidate: lucky (vklucky442@gmail.com)
 Walkthrough Video URL:
 <PASTE YOUR 3-5 MINUTE UNLISTED LOOM OR YOUTUBE LINK HERE>
 
+Live Deployment URL:
+https://papers-gyp2.onrender.com
+
 Video Agenda Covered (3-5 mins):
 1. Product Overview: Google Docs-style clean light interface, documents dashboard, and seeded user switching.
 2. Document Creation & Rich Text: Creating a doc, formatting with toolbar, font sizes, headings, and lists.

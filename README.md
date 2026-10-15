@@ -4,6 +4,13 @@ A lightweight, real-time collaborative document editor inspired by Google Docs. 
 
 ---
 
+## Live Demo
+
+🔗 **Live Production URL**: [https://papers-gyp2.onrender.com](https://papers-gyp2.onrender.com)  
+> Demo credentials are pre-seeded on the login screen (`alice@ajaia.com` / `password123`).
+
+---
+
 ## Features
 
 - 🤝 **Real-Time Google Docs-Style Collaboration**: Concurrent editing powered by Yjs Conflict-Free Replicated Data Types (CRDTs). Simultaneous edits merge deterministically without data loss.

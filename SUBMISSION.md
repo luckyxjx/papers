@@ -75,9 +75,15 @@ npm test
 
 ---
 
+## Live Deployment URL
+
+🔗 **Live Production URL**: [https://papers-gyp2.onrender.com](https://papers-gyp2.onrender.com)
+
+---
+
 ## Cloud Deployment (Render)
 
-This repository is configured for zero-friction single-service deployment to **Render**:
+This repository is deployed as a single web service on **Render**:
 
 1. Push your repository to GitHub.
 2. In Render, select **New → Web Service** and connect your GitHub repo.
