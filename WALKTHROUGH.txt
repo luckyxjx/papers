@@ -1,0 +1,13 @@
+Ajaia Docs — Walkthrough Video
+Candidate: lucky (vklucky442@gmail.com)
+
+Walkthrough Video URL:
+<PASTE YOUR 3-5 MINUTE UNLISTED LOOM OR YOUTUBE LINK HERE>
+
+Video Agenda Covered (3-5 mins):
+1. Product Overview: Google Docs-style clean light interface, documents dashboard, and seeded user switching.
+2. Document Creation & Rich Text: Creating a doc, formatting with toolbar, font sizes, headings, and lists.
+3. Multi-User Real-Time Collaboration: Side-by-side browser windows (Alice & Bob) typing simultaneously with live cursor flags and presence avatars.
+4. File Import & Attachment Embedding: Importing a .docx/.md file into a document and embedding image attachments into the canvas.
+5. Role-Based Sharing & Permissions: Sharing "Q4 planning" with Carol as view-only; verifying the canvas is locked and toolbar disabled.
+6. Engineering & AI Reflection: Brief overview of Yjs CRDT + Hocuspocus architecture, 28 passing tests, and how AI was used with active human judgment.
